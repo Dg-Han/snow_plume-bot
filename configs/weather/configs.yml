@@ -1,0 +1,8 @@
+# 有权限使用插件的群号，每个群号对应一个关注天气地址列表
+group_id:
+  670404622: {location_list: {上海: '101020100'}}
+
+# 和风天气api key
+weather_api_key: 9c5f09dc9c2a428faf8e430f8d8e9e4b
+# 是否为和风天气付费用户
+paying_user: false
